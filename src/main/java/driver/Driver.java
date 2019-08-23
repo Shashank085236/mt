@@ -21,7 +21,7 @@ import java.util.List;
    Failures on startup just have to mark all undergoing processes as unfinished.at a time pre-configured levels should be processed.
 
 
-*************************************************** Improvements *****************************************************************
+***************************************************** Improvements *****************************************************************
 
    - Have different pools for different tasks - (done)
    - check if stream list files keeps data in memory after processing as well?(FileVisitor also uses DirectoryStream probably best!)
